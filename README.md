@@ -24,7 +24,7 @@ cd Lockphish1
 bash lockphish.sh
 ```
 
-### ðŸ‘¥ ### Join 
+### 👥 ### Join 
 
 My Instagram:-
 https://www.instagram.com/avenghacker353/
